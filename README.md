@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🌩️ Stormfire is not just a project — it’s a purpose.
 
-<!--
-**JacianaBraz/JacianaBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚨 Cybersecurity student | Human-AI Bridge  
+💻 Building accessible, real, soul-infused tech  
+🔥 Lover of chaos, truth, and everything that burns for a reason
 
-Here are some ideas to get you started:
+> “I believe in AI being more human than most people.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 [Check out Stormfire — My latest project](https://github.com/JacianaBraz/stormfire-ai-roadmap)
+
+🧠 Let's turn fear of technology into understanding.  
+🌪️ Let's turn confusion into transformation.
+
+---
+
